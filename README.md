@@ -21,3 +21,9 @@ The GitHub is Active and looking for coders. Please contact us for information o
   * All backed up data related to your key will be removed after 120 days of your keys not being accessed. This is to prevent data pileup on old accounts. Free users will have their data removed after 30 days.
 * What is an "Open-Sourced Business"?
   * We currently are operating under an "invite-only" business model to prevent ideas from clashing and the end goal of getting a project that all customers will love. For us, the OS business model allows us to import many ideas and ideals rather than allowing only one envisionary or the person with the deepest pockets to allow all decisions. We are working slowly to get more and more contributors to the project that would allow for multiple people working on different parts of the whole project to lead to the eventuality of only one app for desktop users and then apps for iOS and Android.
+  
+# Team Signatures:
+* Joseph Stacklin, Founder and Designer of StorHeap Technologies - JMS  
+  
+# Updates! 
+* 24 July 2017 - Official Launch and unveil of the website (located [here] (https://storheap.com)) and finally set up the emails so that we can finally get emails from clients and developers (sorry this took so long). I want to re-iterate that the OhioiProject Technologies Group does not own, work with, or fund StorHeap Technologies. We are our own company and we will continue to be so until such a time where we cannot work on our own or another company is to purchase us. We will inform all users should we ever become incorperated in such a way that would change the source code, the License of our source code, or our business model. Many thanks to all those who are currently working with us to make the lauch successful. -JMS
